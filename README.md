@@ -1,6 +1,10 @@
 # vue-clock
 
-> A Vue.js project
+![gif](vue-clock.gif "vue-clock")
+
+## Demo
+
+[http://material-test.surge.sh/](http://material-test.surge.sh/)
 
 ## Build Setup
 
