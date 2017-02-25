@@ -1,4 +1,4 @@
-# vue-counter
+# vue-clock
 
 > A Vue.js project
 
